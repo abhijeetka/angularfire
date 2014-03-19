@@ -2,3 +2,17 @@ http://getcharacters.com/
 
 http://bootswatch.com/yeti/
 http://bootswatch.com/
+
+.form {
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.25);
+  margin: 143px auto;
+  width: 900px;
+}
+.line {
+  background-color: #D7D7D7;
+  height: 1px;
+  margin: 20px 0 20px 30px;
+  width: 829px;
+}
